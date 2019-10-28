@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #e7e7e7;
+}
+
+#particles-js {
+  background-color: rgb(190,126,137);
+  height: 90vh;
+  position: relative;
+  background-image: url("../../assets/img/annie-spratt-nWiS2rgtVts-unsplash.jpg");
+  background-size: cover;
+}
+
+#header-internal {
+  position: absolute;
+  /*top: 15%;*/
+  /*left: 46%;*/
+  /*right: 50%;*/
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+  font-family: 'Alex Brush', cursive;
+}
+
+#where-to-find-me {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: #141313;
+}
+
+#header-internal hr {
+  background-color: #343434;
+  height: 1px;
+}
+
+#header-internal h1 {
+  font-family: 'Alex Brush', cursive;
+  font-size: 90px;
+  margin-bottom: 0px;
+}
+
+#header-internal p {
+  font-size: 40px;
+  margin-top: 8px;
+}
+
+#where-to-find-me h1 {
+  color: white;
+  font-family: 'Alex Brush';
+  font-size: 90px;
+}
+
+#where-to-find-me hr {
+  height: 1px;
+  background-color: white;
+  width: 30%;
+}
+
+#twitch {
+  padding: 6%;
+}
+
+#twitter {
+  padding: 6%;
+}
+
+#About-me {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: #be7e89;
+}
+
+#About-me hr {
+  width: 30%;
+  background-color: #212529;
+  height: 1px;
+}
+
+#About-me h1 {
+  font-size: 90px;
+  font-family: 'Alex Brush';
+}
+
+#About-me p {
+  font-size: 25px;
+}
+
+#About-me .button {
+  background: none;
+  border-color: #212529;
+  padding: 12px 24px 12px 24px;
+  color: #212529;
+  transition: 1.0s;
+}
+
+#About-me .button:hover {
+  background: none;
+  border-color: #212529;
+  padding: 12px 24px 12px 24px;
+  color: #212529;
+  background-color: #FFDEE9;
+  background-image: linear-gradient(129deg, #f16fad 0%, #B5FFFC 100%);
+  transition: 1.0s;
+}
+
+#About-me .button .icon {
+  margin-right: 5px;
+}
+
+a {
+  color: pink;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255,255,255);
+}
+
+#brand {
+  font-size: 40px;
+  transition: 0.4s;
+}
+
