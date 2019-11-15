@@ -38,6 +38,7 @@ body {
 #header-internal hr {
   background-color: #343434;
   height: 1px;
+  width: 125px;
 }
 
 #header-internal h1 {
@@ -60,7 +61,7 @@ body {
 #where-to-find-me hr {
   height: 1px;
   background-color: white;
-  width: 30%;
+  width: 125px;
 }
 
 #twitch {
@@ -78,7 +79,7 @@ body {
 }
 
 #About-me hr {
-  width: 30%;
+  width: 125px;
   background-color: #212529;
   height: 1px;
 }
